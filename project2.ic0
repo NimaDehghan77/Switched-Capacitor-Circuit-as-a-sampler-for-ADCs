@@ -1,0 +1,42 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "10:37:53 07/20/2021 "
+* "netlist" "c:\users\nima\desktop\hspice code poroject\project2.sp "
+* "runtitle" "2nd poroject of data converter (design switch capacitor circuit )"
+* time =    0.            
+* temperature =  2.500e+01       
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc= 1.000e-12       
+.nodeset
++ b+ = 8.192e-06       
++ b- = 8.192e-06       
++ cm = 5.000e-01       
++ cmi = 2.000e-01       
++ cmo = 5.000e-01       
++ d3+ = 9.763e-06       
++ d3- = 9.763e-06       
++ d5+ = 4.395e-06       
++ d5- = 4.395e-06       
++ dd = 1.000e+00       
++ dn1+ = 1.000e-00       
++ dn1- = 1.000e-00       
++ dn2+ = 1.000e-00       
++ dn2- = 1.000e-00       
++ dsw1 = 3.484e-01       
++ dsw2 = 3.484e-01       
++ in+ = 5.000e-01       
++ in- = 5.000e-01       
++ inop+ = 1.594e-01       
++ inop- = 1.594e-01       
++ out+ = 3.484e-01       
++ out- = 3.484e-01       
++ ph1 =   0.            
++ ph1a =   0.            
++ ph1d =   0.            
++ ph2 = 1.000e+00       
++ ph2b =   0.            
++ s2+ = 1.000e-00       
++ s2- = 1.000e-00       
+***   END: Saved Operating Point ***                     
