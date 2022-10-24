@@ -27,3 +27,11 @@ ____
 _____
 Dimensions of switch transistors:
 ____
+![2022-10-24_17-19-23](https://user-images.githubusercontent.com/115939486/197548257-f165aaf0-8bc9-410e-90db-e2d0c2243305.jpg)
+_________
+![2022-10-24_17-19-48](https://user-images.githubusercontent.com/115939486/197548338-8949658c-9e17-4acb-b3ce-28800beb8a24.jpg)
+___________
+Output Specturm :
+________
+![76](https://user-images.githubusercontent.com/115939486/197548428-05a60f34-fccc-400c-9009-795e8aad35d5.jpg)
+__________
